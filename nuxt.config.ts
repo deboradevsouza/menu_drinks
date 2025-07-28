@@ -5,5 +5,10 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss', '@nuxt/fonts'],
   tailwindcss: {
     exposeConfig: true
+  },
+  app: {
+    head: {
+      link: [{ rel: 'icon', type: 'image/png', href: '/favicon.png' }]
+    }
   }
 })
