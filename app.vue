@@ -2,7 +2,7 @@
 <template>
   <body class="flex flex-col items-center bg-[#BCCBAA]">
     
-    <div class="flex flex-col bg-[#fff] rounded-md p-4 mt-[15px] w-full h-full">
+    <div class="flex flex-col bg-[#fff] rounded-md p-4 mt-[15px] mb-[15px] w-full h-full">
       <header class="flex flex-col items-center m-0">
         <h1 class="flex">Manoela & Fabio</h1>
         <h2 class="flex self-end">menu drinks</h2>
@@ -90,9 +90,6 @@
       
       </div>
 
-      <div class="flex items-center content-center m-4 ">
-        <h4>Desenvolvido por @deboradevsouza</h4>
-      </div>
   </body>
 </template>
 
@@ -118,10 +115,6 @@ h3 {
   font-size: 20px;
   font-weight: 500;
   max-width: fit-content;
-  color: #262513;
-}
-
-h4 {
   color: #262513;
 }
 
