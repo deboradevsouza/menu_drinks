@@ -90,9 +90,9 @@
       
       </div>
 
-      <footer class="flex items-center content-center m-4 ">
+      <div class="flex items-center content-center m-4 ">
         <h4>Desenvolvido por @deboradevsouza</h4>
-      </footer>
+      </div>
   </body>
 </template>
 
