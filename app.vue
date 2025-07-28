@@ -88,8 +88,15 @@
         <img src="/assets/Bramble.png" height="150" width="150" alt="drink">
       </div>
       
+      <br>
+      <hr>
+      <br>
+
+      <p class="flex self-center">Desenvolvido por @deboradevsouza</p>
+    
       </div>
 
+      
   </body>
 </template>
 
