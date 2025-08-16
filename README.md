@@ -1,75 +1,19 @@
-# Nuxt Minimal Starter
+# Menu de Drinks | Manoela e Fabio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Um menu de drinks para uma festa de casamento organizado pelo nome das bebidas, uma ilustração e ingredientes. 
+## Tecnologia:
 
-## Setup
+- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+- ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+- 	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Make sure to install dependencies:
+## Ilustrações
 
-```bash
-# npm
-npm install
+As aquarelas utilizadas no projeto foram Winsor & Newton feitas em papel Canson300g.
 
-# pnpm
-pnpm install
 
-# yarn
-yarn install
+## Autora
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- [deboradevsouza](https://www.github.com/deboradevsouza)
+- [aquarelas - arte](https://www.instagram.com/deborasouzart)
