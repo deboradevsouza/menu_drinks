@@ -11,10 +11,10 @@
       <br><hr><br>
 
       <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
-        <img src="/assets/Drink_Jorginho.png" height="150" width="150" alt="drink">
+        <img src="/assets/Lady_Madonna.png" height="150" width="150" alt="drink">
         <div class="flex flex-col justify-between">
-          <h3 class="flex items-center self-center">Jorginho</h3>
-          <p class="flex self-center text-center">Gim, suco de limão siciliano, xarope de framboesa e clara de ovo</p>
+          <h3 class="flex items-center text-center">Drink da noiva</h3>
+          <p class="flex self-center text-center">Espumante, lichia e mel de lichia</p>
         </div>
       </div>
 
@@ -22,8 +22,28 @@
 
       <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
         <div class="flex flex-col justify-between">
-          <h3 class="flex items-center text-center">Twist and Shot</h3>
-          <p class="flex self-center text-center">Rum, suco de limão, folhas de hortelã e água com gás</p>
+          <h3 class="flex items-center text-center">Drink do noivo</h3>
+          <p class="flex self-center text-center">Caipi de maracujá, açúcar artesanal de baunilha, pimenta rosa, pimenta tabasco, pimenta biquinho</p>
+        </div>
+        <img src="/assets/Help.png" height="150" width="150" alt="drink">
+      </div>
+
+      <br><br>
+
+      <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
+        <img src="/assets/Drink_Jorginho.png" height="150" width="150" alt="drink">
+        <div class="flex flex-col justify-between">
+          <h3 class="flex items-center self-center text-center">Drink do Jorginho</h3>
+          <p class="flex self-center text-center">Limão siciliano, açúcar artesanal de gengibre, mel de cereja e alecrim, espuma molecular de lichia</p>
+        </div>
+      </div>
+
+      <br><br>
+
+      <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
+        <div class="flex flex-col justify-between">
+          <h3 class="flex items-center text-center">Olha o mateee!</h3>
+          <p class="flex self-center text-center">Caipi de limão Tahiti, mate, hortelã, açúcar artesanal de gengibre</p>
         </div>
         <img src="/assets/Twist_Shot.png" height="150" width="150" alt="drink">
       </div>
@@ -31,59 +51,39 @@
       <br><br>
 
       <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
-        <img src="/assets/Strawberry_Fields.png" height="150" width="150" alt="drink">
+        <img src="/assets/Feel_Fine.png" height="150" width="150" alt="drink">
         <div class="flex flex-col justify-between">
-          <h3 class="flex items-center text-center">Strawberry Fields</h3>
-          <p class="flex self-center text-center">Vodka e morango decorada com canela e anis estrelado</p>
+          <h3 class="flex items-center text-center">Cítrico clínico</h3>
+          <p class="flex self-center text-center">Caipi de kiwi, limão Tahiti, pimenta rosa, mel de rosas e açúcar artesanal de gengibre</p>
         </div>
       </div>
 
       <br><br>
 
       <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
+        <div class="flex flex-col justify-between">
+          <h3 class="flex items-center text-center">Check-up Cardíaco</h3>
+          <p class="flex self-center text-center">Caipi de morango, limão, açúcar artesanal de baunilha, canela em pau flambada e anis estrelado</p>
+        </div>
+        <img src="/assets/Strawberry_Fields.png" height="150" width="150" alt="drink">
+      </div>
+
+      <br><br>
+
+      <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
+        <img src="/assets/Moscow_Mule.png" height="150" width="150" alt="drink">
         <div class="flex flex-col justify-between">
           <h3 class="flex items-center text-center">Moscow Mule</h3>
-          <p class="flex self-center text-center">Vodka, cerveja de gengibre e suco de limão</p>
+          <p class="flex self-center text-center">Vodka, açúcar artesanal de gengibre, suco de limão Tahiti, espuma molecular de maçã verde e gengibre</p>
         </div>
-        <img src="/assets/Moscow_Mule.png" height="150" width="150" alt="drink">
-      </div>
-
-      <br><br>
-
-      <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
-        <img src="/assets/Lady_Madonna.png" height="150" width="150" alt="drink">
-        <div class="flex flex-col justify-between">
-          <h3 class="flex items-center text-center">Lady Madonna</h3>
-          <p class="flex self-center text-center">Champagne, licor creme de cassis, lichia</p>
-        </div>
-      </div>
-
-      <br><br>
-
-      <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
-        <div class="flex flex-col justify-between">
-          <h3 class="flex items-center text-center">I Feel Fine</h3>
-          <p class="flex self-center text-center">Cachaça, kiwi e pimenta rosa</p>
-        </div>
-        <img src="/assets/Feel_Fine.png" height="150" width="150" alt="drink">
       </div>
       
       <br><br>
 
       <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
-        <img src="/assets/Help.png" height="150" width="150" alt="drink">
         <div class="flex flex-col justify-between">
-          <h3 class="flex items-center self-center">Help</h3>
-          <p class="flex self-center text-center">Cachaça, maracujá, pimenta biquinho</p>
-        </div>
-      </div>
-
-      <br><br>
-
-      <div class="flex flex-row items-center self-center p-4 w-[300px] h-[150px]">
-        <div class="flex flex-col justify-between">
-          <h3 class="flex items-center self-center">Bramble</h3>
-          <p class="flex self-center text-center">Gin, suco de limão fresco e licor de amora</p>
+          <h3 class="flex items-center self-center text-center">Prescrição (Bramble)</h3>
+          <p class="flex self-center text-center">Suco de limão siciliano, açúcar artesanal de gengibre, mel de amora e amora</p>
         </div>
         <img src="/assets/Bramble.png" height="150" width="150" alt="drink">
       </div>
@@ -118,8 +118,9 @@ h2 {
 }
 
 h3 {
-  font-family: "WindSong", sans-serif;
-  font-size: 20px;
+  font-family: "Lexend Exa", sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
   font-weight: 500;
   max-width: fit-content;
   color: #262513;
